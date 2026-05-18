@@ -225,7 +225,7 @@ export default function Home() {
             <div className="p-2 bg-cyan-500/10 rounded-xl text-cyan-400 border border-cyan-500/20">
               <Key size={20} />
             </div>
-            <h2 className="text-2xl md:text-3xl font-bold tracking-tight">Temuan "Daging" (Key Insights)</h2>
+            <h2 className="text-2xl md:text-3xl font-bold tracking-tight">Temuan (Key Insights)</h2>
             <p className="text-slate-400 max-w-xl text-sm">Wawasan esensial di luar bangku kuliah yang kami pelajari langsung dari para praktisi.</p>
           </div>
 
